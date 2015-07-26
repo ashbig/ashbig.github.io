@@ -1,8 +1,8 @@
-﻿##Ashkan Bigdeli
+## Ashkan Bigdeli
 
-[http://ashbigdeli.github.io](http://ashbigdeli.github.io)  `ashbigdeli@gmail.com`          `610.331.8883`                                                     
+[http://ashbig.github.io](http://ashbig.github.io)  `ashbigdeli@gmail.com`          `610.331.8883`                                                     
 
-##Overview:
+## Overview:
 
 A highly motivated `bioinformatics` specialist with a passion for technology, and a strong background in the life sciences. I started
 my career as a research associate with a degree in Microbiology, and I'm now finishing a Master's degree in Bioinformatics while
@@ -26,7 +26,7 @@ Master of Liberal Arts in Extension Studies |  Bioinformatics | Harvard Universi
 Bachelor of Science | Microbiology| University of Rhode Island, Kingston, RI| 2009 
 
 
-###PROFESSIONAL EXPERIENCE 
+### PROFESSIONAL EXPERIENCE 
 
 #### Harvard Medical School, Boston MA `2011-Present`
   - The Dana-Farber/Harvard Cancer Center DNA Resource Core is a centralized laboratory that provides Plasmid clone storage, distribution, and sequencing services to researchers in the DF/HCC community and around the world.
@@ -58,7 +58,7 @@ Bachelor of Science | Microbiology| University of Rhode Island, Kingston, RI| 20
  - Operation and maintenance of Biobanking systems for plasmid retrieval.
  - Training of new hires in methods and protocols.
 
-####Metabolix, Inc, Cambridge, MA `2008-2011`	
+#### Metabolix, Inc, Cambridge, MA `2008-2011`	
 * Research Associate II
  - An advanced biomaterials company focused on delivering sustainable solutions to plastic industry with core capabilities in microbial genetics, chemical engineering and plant genetics.
  - Researched and developed new metabolic engineering strategies of biomass grasses for the production of polyhydroxyalkanoates (PHA) for use in the manufacture of biodegradable plastics.
@@ -72,7 +72,7 @@ Bachelor of Science | Microbiology| University of Rhode Island, Kingston, RI| 20
  - Developed and streamlined processes from transformation to environmental introduction.
  - Trained new employees on procedures.
 
-####University of Rhode Island, Kingston, RI `2005-2008` 
+#### University of Rhode Island, Kingston, RI `2005-2008` 
 * Research Assistant
  - Research assistant for two Professor’s. Facilitated and led undergraduate projects in both laboratories. 
  - Independent research focused on organisms Tetrahymena Thermophila and Switchgrass. 
