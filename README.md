@@ -14,7 +14,7 @@ Now that I'm graduating, I'm searching for opportunities to combine my unique ba
 ### TECHNICAL SKILLS
 
 * **Programming:** `C++`, `Java`, `Python`, `Groovy`, `Grails`, `JavaScript`, `Linux/Unix`, `R`, `PHP`,`HTML/XHTML/CSS`, `Git`
-* **Database:** `SQL`, `Oracle`, `MongoDB`, Hibernate`
+* **Database:** `SQL`, `Oracle`, `MongoDB`, 'Hibernate`
 * **Molecular Biology:** `PCR`, `qPCR`, `Sequencing`, `Biological assay development`, `Tissue and Cell culture`, `Experimental design and execution`, `Molecular cloning strategies`, `Plant and Bacterial transformations`, `High throughput robotics`, `Biobanking`
 * **Project Management:** `Systems and Process Flow`, `Work Flow Management`, `RFP Management`, `Management of direct reports`, `Customer Relations and Internal Management`
 
