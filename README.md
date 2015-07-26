@@ -1,6 +1,7 @@
 ## Ashkan Bigdeli
 
-[http://ashbig.github.io](http://ashbig.github.io)  `ashbigdeli@gmail.com`          `610.331.8883`                                                     
+[http://github.com/ashbig](http://github.com/ashbig)  `ashbigdeli@gmail.com`          `610.331.8883`                                                     
+
 
 ## Overview:
 
@@ -11,22 +12,20 @@ I work as the Bioinformatics Coordinator for Dana-Farber Harvard Cancer Center, 
 Now that I'm graduating, I'm searching for opportunities to combine my unique background in the life sciences with my programming skills.
 
 
-### TECHNICAL SKILLS
+### Technical Skills
 
 * **Programming:** `C++`, `Java`, `Python`, `Groovy`, `Grails`, `JavaScript`, `Linux/Unix`, `R`, `PHP`,`HTML/XHTML/CSS`, `Git`
 * **Database:** `SQL`, `Oracle`, `MongoDB`, `Hibernate`
 * **Molecular Biology:** `PCR`, `qPCR`, `Sequencing`, `Biological assay development`, `Tissue and Cell culture`, `Experimental design and execution`, `Molecular cloning strategies`, `Plant and Bacterial transformations`, `High throughput robotics`, `Biobanking`
 * **Project Management:** `Systems and Process Flow`, `Work Flow Management`, `RFP Management`, `Management of direct reports`, `Customer Relations and Internal Management`
 
-
 ### Education
- Degree | Major | Institution | Graduation Year 
-:--:|:--:|:--:|:--:|:--:
-Master of Liberal Arts in Extension Studies |  Bioinformatics | Harvard University, Cambridge, MA  | Estimated: Nov 2015 pending thesis approval}
-Bachelor of Science | Microbiology| University of Rhode Island, Kingston, RI| 2009 
+| Degree | Major | Institution | Graduation Year| 
+|-------|-------|-------------|-----------------|
+| Master of Liberal Arts in Extension Studies |  Bioinformatics | Harvard University, Cambridge, MA  | Estimated: Nov 2015 pending thesis approval
+| Bachelor of Science | Microbiology| University of Rhode Island, Kingston, RI| 2009 |
 
-
-### PROFESSIONAL EXPERIENCE 
+### Professional Experience
 
 #### Harvard Medical School, Boston MA `2011-Present`
   - The Dana-Farber/Harvard Cancer Center DNA Resource Core is a centralized laboratory that provides Plasmid clone storage, distribution, and sequencing services to researchers in the DF/HCC community and around the world.
