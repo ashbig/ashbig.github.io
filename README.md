@@ -4,7 +4,7 @@
 
 ##Overview:
 
-A highly motivated bioinformatics specialist with a passion for technology, and a strong background in the life sciences. I started
+A highly motivated `bioinformatics` specialist with a passion for technology, and a strong background in the life sciences. I started
 my career as a research associate with a degree in Microbiology, and I'm now finishing a Master's degree in Bioinformatics while
 I work as the Bioinformatics Coordinator for Dana-Farber Harvard Cancer Center, where I manage and maintain the Plasmid portal (http://plasmid.med.harvard.edu).
 
@@ -39,7 +39,7 @@ Bachelor of Science | Microbiology| University of Rhode Island, Kingston, RI| 20
  - Management and programming of databases associated with plasmid.med.harvard.edu.
  - Parsing of unstructured data into machine readable format regarding over 30,00 cDNA clones and all associated information including the validation of data from outside sources. 
  - Use of shell/python scripts to increase automation in both local and HPC environments.
- - Provided data analysis of customer actions and planned and executed project implementation to increase revenue. 
+ - Provided `data analysis` of customer actions and planned and executed project implementation to increase revenue. 
  - Integration and programming of lab robotics and associated databases.
  - Effective communication to increase internal user experience and efficiency. 
  - Implemented fixes to previously problematic, undocumented code. 
@@ -50,7 +50,7 @@ Bachelor of Science | Microbiology| University of Rhode Island, Kingston, RI| 20
 * Research Associate III, `2011-2013`
  - Immediate growth of Core operations upon hire; decreasing order fulfillment from 3 months to 10 business days. 
  - Implementation of direct customer and researcher interactions to provide accurate plasmids and sequencing data to the user or purchaser.
- - Streamlining and improvement of lab protocols, sample management and distribution methods. Distribution costs decreased by 5%(xx) and output rose X % .
+ - Streamlining and improvement of lab protocols, sample management and distribution methods. Distribution costs decreased over 5 % and output rose 55 % .
  - Retrieval, arraying, culturing, curation, maintenance, recovery and distribution of plasmid clones from a bacterial library of over 300,000 constructs.
  - Operation and maintenance of high throughput robotics and sequencing instruments.
  - Sample management of over 15,000 records for use in a team environment.
